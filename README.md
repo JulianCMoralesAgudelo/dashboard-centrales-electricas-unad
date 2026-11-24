@@ -132,8 +132,8 @@ Los datos provienen del [World Resources Institute](https://github.com/wri/globa
 
 ## Autor y contexto académico
 
-**Julian Camilo Morales Agudelo**  
-Grupo 14  
-Programación para el análisis de datos — 203008069  
-Universidad Nacional Abierta y a Distancia — UNAD  
-Noviembre de 2026
+- **Estudiante:** Julian Camilo Morales Agudelo
+- **Grupo:** 14
+- **Curso:** Programación para el análisis de datos — 203008069
+- **Universidad:** Universidad Nacional Abierta y a Distancia — UNAD
+- **Fecha:** noviembre de 2026
