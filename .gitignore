@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+!global_power_plant_database.csv
